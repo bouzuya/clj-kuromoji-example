@@ -1,6 +1,9 @@
-# kuromoji example
+# Kuromoji example in Clojure
 
-kuromoji example.
+[Kuromoji][kuromoji] example in [Clojure][clojure].
+
+[kuromoji]: http://www.atilika.com/products/kuromoji.html
+[clojure]: http://clojure.org/
 
 ## License
 
