@@ -6,5 +6,6 @@
   :dependencies [[org.clojure/clojure "1.4.0"]
                  [org.atilika.kuromoji/kuromoji "0.7.7"]]
   :repositories [["Atilika Open Source repository"
-                  "http://www.atilika.org/nexus/content/repositories/atilika"]])
+                  "http://www.atilika.org/nexus/content/repositories/atilika"]]
+  :main kuromoji-example.core)
 
