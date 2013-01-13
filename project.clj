@@ -1,4 +1,4 @@
-(defproject kuromoji-example "0.1.1"
+(defproject kuromoji-example "0.2.0"
   :description "Kuromoji example in Clojure."
   :url "http://github.com/bouzuya/clj-kuromoji-example"
   :license {:name "Eclipse Public License"
@@ -6,5 +6,6 @@
   :dependencies [[org.clojure/clojure "1.4.0"]
                  [org.atilika.kuromoji/kuromoji "0.7.7"]]
   :repositories [["Atilika Open Source repository"
-                  "http://www.atilika.org/nexus/content/repositories/atilika"]])
+                  "http://www.atilika.org/nexus/content/repositories/atilika"]]
+  :main kuromoji-example.core)
 
