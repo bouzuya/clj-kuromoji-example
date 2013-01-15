@@ -1,4 +1,4 @@
-(defproject kuromoji-example "0.2.0"
+(defproject kuromoji-example "0.3.0"
   :description "Kuromoji example in Clojure."
   :url "http://github.com/bouzuya/clj-kuromoji-example"
   :license {:name "Eclipse Public License"
